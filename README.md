@@ -1,5 +1,5 @@
-<h1 align="center">Me chamo Emanuel</h1>
-<h2 align="center">Seja bem vindo</h2>
+<h1 align="center">Opa, me chamo Emanuel</h1>
+<h2 align="center">Seja bem vindo👋</h2>
 
 - 🏢 Atualmente trabalho como: <strong>Assistente administrativo</strong>
 - 🤓 Estou estudando: <strong>Software and Web Development</strong>
