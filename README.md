@@ -3,7 +3,7 @@
 
 - 🏢 Atualmente trabalho como: <strong>Assistente administrativo</strong>
 - 🤓 Estou estudando: <strong>Software and Web Development</strong>
-- 🏃‍♂️‍➡️ Comecei em: <strong>Janeiro/2025</strong>
+- 🏃‍♂️‍➡️ Comecei em: <strong>Janeiro/2024</strong>
 - 🚩 Pretendo me tornar: <strong>Dev Full Stack</strong>
 
 <h2 align="center">Contatos</h2>
