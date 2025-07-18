@@ -1,10 +1,8 @@
 <h1 align="center">Opa, me chamo Emanuel</h1>
 <h2 align="center">Seja bem vindo👋</h2>
 
-- 🏢 Atualmente trabalho como: <strong>Assistente administrativo</strong>
-- 🤓 Estou estudando: <strong>Software and Web Development</strong>
-- 🏃‍♂️‍➡️ Comecei em: <strong>Janeiro/2024</strong>
-- 🚩 Pretendo me tornar: <strong>Dev Full Stack</strong>
+- 🤓 Estou me aprofundando em: <strong>JS, TS e NodeJs</strong>
+- 🔥 Desenvolvedor FullStack
 
 <h2 align="center">Contatos</h2>
 <div align="center">
