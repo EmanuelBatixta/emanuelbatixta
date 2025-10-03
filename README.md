@@ -1,6 +1,9 @@
+📄 This README is also available in [English](README.en.md)
+
+
 # 👨‍💻 Emanuel Batista
 
-[![GitHub](https://img.shields.io/badge/GitHub-emanuelbatixa-181717?style=for-the-badge&logo=github)](https://github.com/emanuelbatixa) 
+[![GitHub](https://img.shields.io/badge/GitHub-emanuelbatixa-181717?style=for-the-badge&logo=github)](https://github.com/emanuelbatixta) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-emanuel--jonatas-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/emanuel-jonatas/)
 [![Email](https://img.shields.io/badge/Email-emanueljonatas28@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:emanueljonatas28@gmail.com) 
 
@@ -28,6 +31,13 @@ Sou Emanuel Batista, desenvolvedor focado em entregar soluções inteligentes e 
 
 ---
 
+## 📊 GitHub Stats
+
+![Emanuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=emanuelbatixta&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelbatixta&layout=compact&theme=radical)
+
+---
+
 ## 📚 Formação
 
 🎓 **Engenharia de Software** — Unifatecie  
@@ -45,10 +55,8 @@ Estou pronto para contribuir com equipes que valorizam **iniciativa, curiosidade
 
 📍 Jacareí, SP — Brasil  
 📧 emanueljonatas28@gmail.com  
-🔗 [github.com/emanuelbatixa](https://github.com/emanuelbatixa)
+🔗 [github.com/emanuelbatixa](https://github.com/emanuelbatixta)
 
 ---
 
 > “Não é sobre onde você começou, mas sobre a velocidade e direção que você escolhe para evoluir.”
-
-📄 This README is also available in [English](README.en.md)
