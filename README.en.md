@@ -32,7 +32,7 @@ I'm Emanuel Batista, a developer focused on delivering smart, well-structured so
 ## 📚 Education
 
 🎓 **Software Engineering** — Unifatecie  
-🎓 **WS Developer Program** — BYU
+🎓 **Web and Software Development** — BYU
 
 ---
 
