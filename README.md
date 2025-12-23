@@ -41,7 +41,7 @@ Sou Emanuel Batista, desenvolvedor focado em entregar soluções inteligentes e 
 ## 📚 Formação
 
 🎓 **Engenharia de Software** — Unifatecie  
-🎓 **WS Developer Program** — BYU
+🎓 **Web and Software Development** — BYU
 
 ---
 
